@@ -1,27 +1,51 @@
 {
   "products": [
     {
-      "id": "123",
-      "title": "Nome do produto 01",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 50
+      "id": "034",
+      "title": "T-SHIRT BÁSICA",
+      "image_url": "https://taco.vteximg.com.br/arquivos/ids/358463-620-930/19461_C057_1-T-SHIRT-BASICA-PREMIUM-COM-BOLSO.jpg?v=637190287486100000",
+      "price": 35.90
     },
     {
-      "id": "1234",
-      "title": "Nome do produto 02",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 60
+      "id": "036",
+      "title": "T-SHIRT BÁSICA",
+      "image_url": "https://taco.vteximg.com.br/arquivos/ids/358396-620-930/19382_C012_1-T-SHIRT-BASICA-MESCLA-COMFORT.jpg?v=637190286934530000",
+      "price": 35.90
     },
     {
-      "id": "12345",
-      "title": "Nome do produto 03",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
+      "id": "037",
+      "title": "T-SHIRT BÁSICA",
+      "image_url": "https://taco.vteximg.com.br/arquivos/ids/352600-620-930/18955_C033_1-T-SHIRT-BASICA-DE-ALGODAO-COMFORT.jpg?v=637160973295000000",
       "price": 70
     },
     {
-      "id": "123456",
+      "id": "038",
       "title": "Nome do produto 04",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
+      "image_url": "https://taco.vteximg.com.br/arquivos/ids/352684-620-930/19369_C021_1-T-SHIRT-ESTAMPADA-NATURE-AROUND.jpg?v=637160974148600000",
+      "price": 80
+    },
+    {
+      "id": "039",
+      "title": "T-SHIRT BÁSICA",
+      "image_url": "https://taco.vteximg.com.br/arquivos/ids/352635-620-930/19259_C005_1-T-SHIRT-ESTAMPADA-SPRAY-SURFERS.jpg?v=637160973596700000",
+      "price": 70
+    },
+    {
+      "id": "040",
+      "title": "T-SHIRT BÁSICA",
+      "image_url": "https://taco.vteximg.com.br/arquivos/ids/352617-620-930/19116_C013_1-T-SHIRT-ESTAMPADA-TIE-DYE.jpg?v=637160973450830000",
+      "price": 80
+    },
+    {
+      "id": "041",
+      "title": "Casaco Ziper",
+      "image_url": "https://taco.vteximg.com.br/arquivos/ids/359936-620-930/19342002-1000000913460_1.jpg?v=637238876607100000",
+      "price": 189.99
+    },
+    {
+      "id": "042",
+      "title": "T-SHIRT BÁSICA",
+      "image_url": "https://taco.vteximg.com.br/arquivos/ids/352617-620-930/19116_C013_1-T-SHIRT-ESTAMPADA-TIE-DYE.jpg?v=637160973450830000",
       "price": 80
     }
   ]
